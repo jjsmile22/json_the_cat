@@ -30,4 +30,8 @@ const fetchBreedDescription = function(breedName, callback) {
   });
 };
 
+<<<<<<< HEAD:breedFetcher.js
 module.exports = { fetchBreedDescription };
+=======
+fetchPagePutIntoDoc(breedName);
+>>>>>>> f3653a100c13b262b820b068edca01ac63467a67:breedfetcher.js
